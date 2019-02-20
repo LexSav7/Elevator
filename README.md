@@ -18,3 +18,5 @@ Program ends when there is no passengers on the floor and the elevator is empty.
 For this purpose on the first will always be created at least one passenger, so that program would not end on the very start.
 
 After reaching the destination floor, if numbers of passengers that want to go up and down are equal, the elevator will go upwards.
+
+P.S. Приложение довольно слабое в отношении clean code и архитектуры, так что открывать и запускать только с прищепкой на носу! :)
