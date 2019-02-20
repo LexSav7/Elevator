@@ -25,6 +25,6 @@ If you encounter problems with launching the program, follow the next steps (for
 
 2) Specify the path for the project compiler output (File -> Project Structure -> Project -> Project Compilet Output).
 
-Path should have the following format: "/path/where/project/extracted" + "/out" (al least works for Ubuntu).
+Path should have the following format: "/path/where/project/extracted" + "/out" (at least works for Ubuntu).
 
 P.S. Приложение довольно слабое в отношении clean code и архитектуры, так что открывать и запускать только с прищепкой на носу! :)
