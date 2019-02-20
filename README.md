@@ -1,5 +1,5 @@
 # Elevator
-Simple Java console program. Displays the work of the elevator in the building.
+Simple Java console program. Displayes the work of the elevator in the building.
 
 Explanation of the console output:
 
