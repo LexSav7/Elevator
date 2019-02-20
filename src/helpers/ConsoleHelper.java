@@ -110,23 +110,6 @@ public class ConsoleHelper {
         System.out.println("\n\n");
     }
 
-    public static void buildingCurrentState(Building building) {
-        System.out.println("CURRENT BUILDING STATE !!!");
-
-        for (int i = 0; i < building.size(); i++) {
-
-            System.out.println("Floor: " + (i + 1));
-            System.out.println("Number of passengers: " + building.get(i).size());
-
-            for (Passenger p : building.get(i)) {
-                System.out.print((p.getDestFloor() + 1) + " ");
-            }
-            System.out.println();
-        }
-
-        System.out.println("\n\n");
-    }
-
     private static void printArrows(String arrow) {
         System.out.print("        ");
 
