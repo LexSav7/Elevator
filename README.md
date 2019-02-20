@@ -19,7 +19,7 @@ For this purpose on the first will always be created at least one passenger, so 
 
 After reaching the destination floor, if numbers of passengers that want to go up and down are equal, the elevator will go upwards.
 
-If you encounter problems with launching the program, follow the next steps (for IntelliJ):
+P.S. If you encounter problems with launching the program, follow the next steps (for IntelliJ):
 
 1) Mark "src" directory as sources directory (Right-click on the folder -> Mark directory as -> Mark as Sources root);
 
@@ -27,4 +27,4 @@ If you encounter problems with launching the program, follow the next steps (for
 
 Path should have the following format: "/path/where/project/extracted" + "/out" (at least works for Ubuntu).
 
-P.S. Приложение довольно слабое в отношении clean code и архитектуры, так что открывать и запускать только с прищепкой на носу! :)
+P.S.S. Приложение довольно слабое в отношении clean code и архитектуры, так что открывать и запускать только с прищепкой на носу! :)
