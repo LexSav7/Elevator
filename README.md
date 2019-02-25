@@ -12,7 +12,7 @@ Each passenger displayed in the format "X : Y", where
     Y is the destination floor of the passenger.
 
 Rigth column displays how many passengers on the floor want to go up (up arrow) and how many want to go down (down arrow).
-Also it displays how many of the passengers where let in the elevator (left arrow) and how many where let out (right arrow).
+Also it displays how many passengers were let in the elevator (left arrow) and how many were let out (right arrow).
 
 Program ends when there is no passengers on the floor and the elevator is empty.
 For this purpose, on the first floor will always be created at least one passenger, so that program would not end on the very start.
